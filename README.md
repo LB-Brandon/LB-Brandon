@@ -19,10 +19,10 @@
   <img src="https://img.shields.io/badge/Node.js-007396?style=flat&logo=Node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/mysql-007396?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/mongodb-007396?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
-  <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-007396?style=flat&logo=Linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/NGINX-007396?style=flat&logo=NGINX&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-007396?style=flat&logo=AmazonAWS&logoColor=white" />
+  <img src="https://img.shields.io/badge/NGINX-007396?style=flat&logo=NGINX&logoColor=white" />
 	<br>
   <img src="https://img.shields.io/badge/Flutter-007396?style=flat&logo=flutter&logoColor=white" />
 </div>
