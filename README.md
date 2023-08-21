@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Brandon&fontSize=90" />
 
 <!--
 **LB-Brandon/LB-Brandon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
