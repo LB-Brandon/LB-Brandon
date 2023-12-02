@@ -1,7 +1,6 @@
 <div align=center>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi!%20I'm%20Brandon&fontSize=90" />
 <div align=center>
-  <h2>Available for hire!!</h2>
 </div>
 
 <br/>
